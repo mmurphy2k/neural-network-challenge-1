@@ -18,7 +18,7 @@ The business team has given you a CSV file that contains information about previ
 
 ## 2. **File Structure**
 
-![File Structure](<Screenshot 2025-01-28 at 1.11.23 AM.png>)
+![File Structure](<Screenshot 2025-03-05 at 12.41.06 AM.png>)
 
 
 ## 3. **Prerequisites**
